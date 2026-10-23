@@ -1,0 +1,7 @@
+*.txt
+periti_2025_data/
+dpo_dataset/
+.ipynb_checkpoints/
+__pycache__/
+wandb/
+*.tsv
