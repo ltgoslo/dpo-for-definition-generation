@@ -1,5 +1,7 @@
 # definitions-dpo
 
+[Paper in ACL Anthology](https://aclanthology.org/2026.nlp4pi-1.30/)
+
 1. data_2025.ipynb loads Francesco's dataset from HF and creates a *.jsonl. don't forget not to use labels replacement
 
 2. src/llama_dictionary_predict.py takes jsonl and generates txt with model predictions
